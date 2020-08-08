@@ -15,6 +15,6 @@ Code for this program is stored in the **main.c**
 ![Result](https://github.com/adolfdcosta91/FreeRTOS---Timers-Aperiodic-Task/blob/master/ScreenShot/screenshot.png)
 
 
-## SchedulingRate Monotonic Scheduler
+## Scheduling
 
 A scheduling comparison between **Rate Monotonic Scheduler** and **Earliest Deadline First** was done using SimSo, results are present in  **Assignment4** file. 
